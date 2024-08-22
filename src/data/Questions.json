@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "statement": "What is the official currency of Pakistan?",
+        "option": [
+            "Rupees",
+            "Rial",
+            "Dinar",
+            "Dollar"
+        ],
+        "answer": "Rupees"
+    },
+    {
+        "id": 2,
+        "statement": "The highest peak in Pakistan, and the second highest in the world, is called:",
+        "option": [
+            "Mount Everest",
+            "K2",
+            "Nanga Parbat",
+            "Gasherbrum "
+        ],
+        "answer": "K2"
+    },
+    {
+        "id": 3,
+        "statement": "Pakistan shares its longest border with which country?",
+        "option": [
+            "Afghanistan",
+            "India",
+            "Iran",
+            "China"
+        ],
+        "answer": "India"
+    }
+]
